@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "thenkasipattanam",
+      "url": "https://th.bing.com/th/id/OIP.dg8WRox7bOTqgI-PcXbKzgAAAA?rs=1&pid=ImgDetMain",
+      "embedLink": "https://www.youtube.com/embed/tsIwzxRP8T0"
+    },
+    {
+      "id": "3",
+      "caption": "kalyanaraman",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Kalyanaraman_%282002%29.jpg",
+      "embedLink": "https://www.youtube.com/embed/ufpb7gxpzMw"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Romance",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "paiyaa",
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Paiyaa_CDfront01.jpg",
+          "embedLink": "https://www.youtube.com/embed/2qI&index=2"
+        },
+        {
+          "id": "3",
+          "caption": "kalyanaraman",
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Kalyanaraman_%282002%29.jpg",
+          "embedLink": "https://www.youtube.com/embed/ufpb7gxpzMw"
+        },
+        {
+          "id": "2",
+          "caption": "thenkasipattanam",
+          "url": "https://th.bing.com/th/id/OIP.dg8WRox7bOTqgI-PcXbKzgAAAA?rs=1&pid=ImgDetMain",
+          "embedLink": "https://www.youtube.com/embed/tsIwzxRP8T0"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Action",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "kalyanaraman",
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Kalyanaraman_%282002%29.jpg",
+          "embedLink": "https://www.youtube.com/embed/ufpb7gxpzMw"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "kalyanaraman",
+      "embedLink": "https://www.youtube.com/embed/ufpb7gxpzMw",
+      "timeStamp": "02/06/2024, 02:34:22 PM",
+      "id": 1
+    },
+    {
+      "caption": "thenkasipattanam",
+      "embedLink": "https://www.youtube.com/embed/tsIwzxRP8T0",
+      "timeStamp": "02/06/2024, 02:34:28 PM",
+      "id": 2
+    },
+    {
+      "caption": "thenkasipattanam",
+      "embedLink": "https://www.youtube.com/embed/tsIwzxRP8T0",
+      "timeStamp": "02/06/2024, 02:34:31 PM",
+      "id": 3
+    }
+  ]
+}
